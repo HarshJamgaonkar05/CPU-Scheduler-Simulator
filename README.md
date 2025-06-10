@@ -1,10 +1,10 @@
-# 🖥️ CPU Scheduling Simulator (Python + Tkinter)
+#  CPU Scheduling Simulator 
 
-A modern, dark-themed simulator for visualizing classic CPU scheduling algorithms. Built using Python and Tkinter with full support for Gantt charts, stats, and GUI-based control.
+A modern, dark-themed simulator for visualizing classic CPU scheduling algorithms. Built using Python, Tkinter and matplotlib with full support for Gantt charts, stats, and GUI-based control.
 
 ---
 
-## 🚀 Features
+##  Features
 
 -  Supports **FCFS, SJF, SRTF, Priority, Round Robin**
 -  **Dark-themed GUI** using Tkinter
