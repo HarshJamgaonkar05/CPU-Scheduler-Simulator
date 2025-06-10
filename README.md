@@ -19,10 +19,15 @@ A modern, dark-themed simulator for visualizing classic CPU scheduling algorithm
 ##  Sample Screenshot
 
 ![demo](Screenshots/Landing_Page.png)
+
 ![demo](Screenshots/Running_FCFS.png)
+
 ![demo](Screenshots/RobinRoundScheduling_WithVariableQuantumTime.png)
+
 ![demo](Screenshots/CompareAll_Feature.png)
+
 ![demo](Screenshots/PriorityScheduling_GanttGraph.png)
+
 
 
 ---
