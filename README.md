@@ -1,4 +1,4 @@
-# CPU Scheduling Simulator 🖥
+# CPU Scheduling Simulator 
 
 An interactive and visual Python-based simulator for understanding and comparing classic CPU scheduling algorithms such as **FCFS, SJF, SRTF, Priority**, and **Round Robin**. Designed with a modern dark-themed GUI using **Tkinter** and integrated **Gantt chart** visualizations via **Matplotlib**.
 
